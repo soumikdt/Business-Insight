@@ -1,7 +1,7 @@
 
 
 
-# Crisil Sales Pipeline Analysis & Forecast 📈
+# Sales Pipeline Analysis & Forecast 📈
 
 
 
